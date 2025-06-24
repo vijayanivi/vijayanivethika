@@ -37,7 +37,7 @@ A Unity-based project that lets users paint in air using a single pen and gestur
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: your.email@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vijayanivethikargm/)  
+- 📧 Email:rgmvijaya@gmail.com 
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green)
