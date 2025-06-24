@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vijaya Nivethika
 
-🎓 B.Sc. Computer Science (AI) | 🎤 Tamil Singer | 💻 Tech Enthusiast  
+🎓 B.Sc. Computer Science (AI)  💻 Tech Enthusiast  
 📍 Coimbatore, India  
 🧠 Passionate about Machine Learning, AI, Streamlit Apps & Real-world Problem Solving
 
@@ -16,6 +16,11 @@ Built a predictive model to estimate pollutant levels like CO, NOx, and O3 using
 A Unity-based project that lets users paint in air using a single pen and gestures.  
 🎨 Uses Unity, Python, and C#
 
+🔹 **E-Commerce Shopping App with SQL integration**  
+Developed a fully functional shopping system with product listings, cart management, and secure login features.
+🛒 Built using SQL, HTML/CSS, and PHP
+📦 Features include product browsing, cart handling, checkout
+
 ---
 
 ### 💡 Tech Stack
@@ -28,8 +33,8 @@ A Unity-based project that lets users paint in air using a single pen and gestur
 
 ### 🏆 Highlights
 
-- Vice President, AI Club  
-- Internship @ MITA IT Automations Pvt. Ltd.  
+- Vice President of AI Club  
+- Internship: @ MITA IT Automations Pvt. Ltd, @ SkillVertex.  
 - Organizer & Host: AI Quiz, Poster Competitions, Aignite Tech Fest  
 - Awarded *Best Team Member* at Elgi Digital Innovation Dojo
 
