@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vijaya Nivethika
+# 👋 Hi there! I'm Vijayanivethika
 
 🎓 B.Sc. Computer Science (AI)  💻 Tech Enthusiast  
 📍 Coimbatore, India  
